@@ -18,7 +18,10 @@
 
 <!-- About Section with Gradient Border -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="700" alt="Cyberpunk Animation">
+  <video width="700" autoplay muted loop>
+    <source src="https://cdn.dribbble.com/userupload/39464244/file/original-15e445b782c8c5e45615c323f446b742.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
