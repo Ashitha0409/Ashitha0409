@@ -1,14 +1,12 @@
 <div align="center">
 
-  <!-- Header Section with GIF Background and Overlay Text -->
-  <div style="position: relative; display: inline-block;">
-    <img src="stock-footage-abstract-purple-digital-dynamic-particle-waves-with-motion-light-background-data-flow-cyber.gif" width="600" alt="Cyber Header Animation" style="display: block;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); font-size: 36px; font-weight: bold;">
-      Ashitha S Patil
-    </div>
-    <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); font-size: 18px;">
-      Crafting Code • Building Solutions
-    </div>
+  <!-- Header Animation -->
+  <img src="stock-footage-abstract-purple-digital-dynamic-particle-waves-with-motion-light-background-data-flow-cyber.gif" width="600" alt="Cyber Header Animation">
+
+  <!-- Name and Title (positioned to appear over the animation) -->
+  <div style="margin-top: -200px; margin-bottom: 150px;">
+    <h1 style="color: white; text-shadow: 3px 3px 6px rgba(0,0,0,0.9); font-size: 48px; font-weight: bold; margin: 0;">Ashitha S Patil</h1>
+    <p style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); font-size: 20px; margin: 10px 0 0 0;">Crafting Code • Building Solutions</p>
   </div>
 
   <!-- Dynamic Typing Effect -->
