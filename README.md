@@ -19,7 +19,7 @@
 <!-- About Section with Gradient Border -->
 <div align="center">
   <video width="700" autoplay muted loop>
-    <source src="https://cdn.dribbble.com/userupload/39464244/file/original-15e445b782c8c5e45615c323f446b742.mp4" type="video/mp4">
+    <source src="original-15e445b782c8c5e45615c323f446b742.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
