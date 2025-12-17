@@ -158,6 +158,20 @@ class Ashitha:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashitha0409&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
+<!-- Pacman Contribution Graph -->
+## 🕹️ Contribution Pacman
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<!-- Buy Me A Coffee -->
+<p align="center"><a href="https://www.buymeacoffee.com/ashitha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 
