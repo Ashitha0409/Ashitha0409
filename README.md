@@ -70,6 +70,28 @@ class Ashitha:
 <br>Git
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br>REST API
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+<br>Firebase
+</td>
+</tr>
 </table>
 
 </details>
