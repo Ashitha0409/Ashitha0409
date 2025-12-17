@@ -78,11 +78,11 @@ class Ashitha:
 <summary><b>🔧 Complete Stack</b></summary>
 <br>
 
-![Languages](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)
-![Frontend](https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark)
-![Backend](https://skillicons.dev/icons?i=nodejs,express,django&theme=dark)
-![Database](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
-![Tools](https://skillicons.dev/icons?i=git,docker,vscode,linux,bash&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,dart,cpp,haskell,kotlin,solidity,html,css,cmake,nix,c,shell&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,vue,html,css,tailwind,typescript,javascript&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,django,java,python&theme=dark)
+![Database](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,supabase&theme=dark)
+![Tools & Cloud](https://skillicons.dev/icons?i=git,docker,vscode,linux,bash,firebase,cmake&theme=dark)
 ![Security](https://skillicons.dev/icons?i=metasploit,wireshark,burpsuite&theme=dark)
 
 </details>
