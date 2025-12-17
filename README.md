@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Animation with Embedded Text -->
-  <img src="Ashitha S Patil.gif" width="800" alt="Ashitha S Patil Header Animation">
+  <img src="Ashitha S Patil.gif" width="600" alt="Ashitha S Patil Header Animation">
 
   <!-- Dynamic Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+creating+innovative+solutions;Always+learning+and+growing+in+tech)](https://git.io/typing-svg)
