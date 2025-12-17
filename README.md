@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Animated Wave -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5,7,9,11,13&height=250&section=header&text=Ashitha%20S%20Patil&fontSize=80&fontAlignY=35&desc=Crafting%20Code%20•%20Building%20Solutions&descAlignY=55&animation=twinkling)
+  <!-- Animated Header GIF -->
+  <img src="stock-footage-abstract-purple-digital-dynamic-particle-waves-with-motion-light-background-data-flow-cyber.gif" width="800" alt="Cyber Header Animation">
+
+  <!-- Name and Title -->
+  <h1 align="center">Ashitha S Patil</h1>
+  <p align="center">Crafting Code • Building Solutions</p>
 
   <!-- Dynamic Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+creating+innovative+solutions;Always+learning+and+growing+in+tech)](https://git.io/typing-svg)
