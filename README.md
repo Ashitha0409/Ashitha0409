@@ -161,10 +161,10 @@ class Ashitha:
 <!-- Pacman Contribution Graph -->
 ## 🎮 Contribution Graph
 
-![Pac-Man Contribution Animation](https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pac-man-contribution.svg)
+![Pac-Man Game](https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pac-man-game.svg)
 
 <!-- Dark mode version -->
-![Pac-Man Contribution Animation - Dark](https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pac-man-contribution-dark.svg)
+![Pac-Man Game - Dark](https://raw.githubusercontent.com/Ashitha0409/Ashitha0409/output/pac-man-game-dark.svg)
 
 <!-- Buy Me A Coffee -->
 <p align="center"><a href="https://www.buymeacoffee.com/ashitha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>

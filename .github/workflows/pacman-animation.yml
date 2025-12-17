@@ -27,7 +27,15 @@ jobs:
           outputs: |
             dist/pac-man-contribution.svg
             dist/pac-man-contribution-dark.svg?palette=github-dark
-          # Use pac-man style (if available, otherwise snake will be used)
+
+      # generate pac-man style animation
+      - name: Generate pac-man-game-animation.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pac-man-game.svg
+            dist/pac-man-game-dark.svg?palette=github-dark
 
       # push the content to output branch
       - name: Push pac-man animation to output branch
