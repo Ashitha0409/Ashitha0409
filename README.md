@@ -18,7 +18,7 @@
 
 <!-- About Section with Gradient Border -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="700" alt="Cyberpunk Animation">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
@@ -28,7 +28,7 @@ class Ashitha:
     def __init__(self):
         self.identity = {
             "role": "Software Engineer",
-            "focus": ["Web Development", "AI/ML", "Open Source"]
+            "focus": ["Web Development", "AI/ML", "Cybersecurity", "Open Source"]
         }
         self.philosophy = "Code with passion, learn with curiosity"
         self.current_endeavors = {
@@ -83,7 +83,8 @@ class Ashitha:
 ![Frontend](https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark)
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,django&theme=dark)
 ![Database](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
-![Tools](https://skillicons.dev/icons?i=git,docker,vscode&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,docker,vscode,linux,bash&theme=dark)
+![Security](https://skillicons.dev/icons?i=metasploit,wireshark,burpsuite&theme=dark)
 
 </details>
 
