@@ -16,12 +16,11 @@
 
 </div>
 
-<!-- About Section with Gradient Border -->
-<div align="center">
-  <img src="original-15e445b782c8c5e45615c323f446b742.gif" width="700" alt="Cyberpunk Animation">
-</div>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+
+<div align="center">
+  <img src="original-15e445b782c8c5e45615c323f446b742.gif" width="300" alt="Cyberpunk Animation" align="right">
+</div>
 
 ```python
 class Ashitha:
