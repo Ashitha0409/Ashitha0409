@@ -1,13 +1,7 @@
 <div align="center">
 
-  <!-- Header Animation -->
-  <img src="stock-footage-abstract-purple-digital-dynamic-particle-waves-with-motion-light-background-data-flow-cyber.gif" width="600" alt="Cyber Header Animation">
-
-  <!-- Name and Title (positioned to appear over the animation) -->
-  <div style="margin-top: -200px; margin-bottom: 150px;">
-    <h1 style="color: white; text-shadow: 3px 3px 6px rgba(0,0,0,0.9); font-size: 48px; font-weight: bold; margin: 0;">Ashitha S Patil</h1>
-    <p style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); font-size: 20px; margin: 10px 0 0 0;">Crafting Code • Building Solutions</p>
-  </div>
+  <!-- Header Animation with Embedded Text -->
+  <img src="Ashitha S Patil.gif" width="800" alt="Ashitha S Patil Header Animation">
 
   <!-- Dynamic Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+creating+innovative+solutions;Always+learning+and+growing+in+tech)](https://git.io/typing-svg)
