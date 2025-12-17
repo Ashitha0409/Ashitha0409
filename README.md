@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Wave -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Ashitha&fontSize=90&fontAlignY=35&desc=Crafting%20Code%20•%20Building%20Solutions&descAlignY=55&animation=twinkling)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5,7,9,11,13&height=250&section=header&text=Ashitha%20S%20Patil&fontSize=80&fontAlignY=35&desc=Crafting%20Code%20•%20Building%20Solutions&descAlignY=55&animation=twinkling)
 
   <!-- Dynamic Typing Effect -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Tech+Enthusiast+%7C+Problem+Solver;Passionate+about+creating+innovative+solutions;Always+learning+and+growing+in+tech)](https://git.io/typing-svg)
@@ -10,8 +10,8 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Ashitha0409&style=for-the-badge&color=0891b2&labelColor=1c1f23" alt="Profile Views">
     <a href="https://github.com/Ashitha0409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://linkedin.com/in/ashitha0409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:ashitha@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/ashitha-patil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:patilashitha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 
 </div>
@@ -143,7 +143,7 @@ class Ashitha:
 
 I'm passionate about technology and always open to collaboration!
 
-<a href="https://linkedin.com/in/ashitha0409">
+<a href="https://www.linkedin.com/in/ashitha-patil">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -151,7 +151,7 @@ I'm passionate about technology and always open to collaboration!
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:ashitha@example.com">
+<a href="mailto:patilashitha@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
