@@ -18,7 +18,7 @@
 
 <!-- About Section with Gradient Border -->
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU5d3YwbXU4N3U2cmJxbWRxb3F5c3I5M3A4YWNzZnR2ZXI0emM5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qB8Z6PjZ6HSWpEW/giphy.gif" width="700" alt="Cyberpunk Animation">
+  <img src="original-15e445b782c8c5e45615c323f446b742.gif" width="700" alt="Cyberpunk Animation">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
