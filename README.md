@@ -109,38 +109,6 @@ class Ashitha:
 
 </details>
 
-<!-- Featured Projects with Enhanced Cards -->
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [Project One](https://github.com/Ashitha0409/project-one)
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-
-**Description of your first featured project**
-- Feature 1
-- Feature 2
-- Feature 3
-
-</td>
-<td width="50%">
-
-### ⚡ [Project Two](https://github.com/Ashitha0409/project-two)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-
-**Description of your second featured project**
-- Feature 1
-- Feature 2
-- Feature 3
-
-</td>
-</tr>
-</table>
-
 <!-- GitHub Stats with Custom Theme -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
